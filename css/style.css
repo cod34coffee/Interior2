@@ -1,0 +1,118 @@
+.section{
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-top: 10%;
+    padding-bottom: 5%;
+    background-color: rgb(28, 30, 26);
+    
+}
+.sig{
+    color: rgba(240, 227, 212, 0.476);
+
+    
+}
+
+.card{
+    margin-top: -10%;
+    margin-left: 27%;
+    padding-left: 5%;
+    background-color: black;
+    color:rgb(240, 227, 212);
+    border-left: 3px solid rgb(134, 45, 45);
+    border-right: 3px solid rgb(134, 45, 45);
+    width: 50%;
+    height: auto;
+}
+.footer{
+    bottom: 0%;
+    display: block;
+    position: fixed;
+    text-align: center;
+    
+}
+
+
+.para{
+    margin-bottom: 1.5%;
+}
+.pic{
+    margin-left: 5%;
+    margin-right: 5%;   
+}
+.intt{
+    margin-right: 50%;
+    
+    border-left: 1px solid rgb(240, 227, 212);
+    padding-left: 1%;
+}
+a{
+    color: rgb(240, 227, 212);
+}
+body{
+    background-color: rgb(5, 4, 4);
+}
+.Words{
+    color:rgb(240, 227, 212);
+    margin-bottom: 5%;
+    margin-left: 5%;
+}
+
+.p{
+    color: rgb(105, 90, 73);
+}
+.i{
+    border-radius: 70%;
+    margin-bottom: 1.5%;
+}
+.btn{
+    background-color: rgba(104, 97, 97, 0.252);
+    color: rgb(240, 227, 212);
+    border-color: rgb(240, 227, 212);
+}
+.btn:hover{
+    background-color: rgb(240, 227, 212);
+    color: black;
+    
+}
+.h{
+    color: rgb(134, 45, 45);
+}
+.pic2{
+    border-left: 3px solid rgb(134, 45, 45);
+    border-bottom: 3px solid rgb(134, 45, 45);
+    border-right: 3px solid rgb(134, 45, 45);
+}
+.intt2:hover{
+    
+    color: rgb(134, 45, 45);
+    transform: scale(120%);
+   
+}
+a:hover{
+    text-decoration: none;
+    
+}
+.navbar{
+    list-style: none;
+    
+}
+.nav-link:hover{
+    color: rgb(134, 45, 45);
+    transform: scale(140%);
+}
+.nav-link:active{
+    color: rgb(134, 45, 45);
+}
+.nav-link:active{
+    color: rgb(134, 45, 45);
+}
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.671);
+    
+}
+
+.pp{
+    margin-left: 5%;
+}
